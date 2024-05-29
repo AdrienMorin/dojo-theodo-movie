@@ -4,3 +4,22 @@
   justify-content: center;
   gap: 20px;
 }
+
+.isLoading {
+  color: antiquewhite;
+}
+
+.moviesContainer{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1vw;
+  width: 100%;
+  justify-content: center;
+}
+
+.mainContainer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+}

@@ -7,6 +7,7 @@ import { Header } from "./components/Header/Header";
 import { MovieCatalog } from "./components/MovieCatalog/MovieCatalog";
 import { FavoriteMovies } from "./components/FavoriteMovies/FavoriteMovies";
 import MovieDetails from "./components/MovieDetails/MovieDetails";
+import { mockMovie } from "./mock/mockMovie";
 
 export const POSTER_URL_PREFIX = "https://image.tmdb.org/t/p/original/";
 

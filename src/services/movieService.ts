@@ -9,7 +9,7 @@ type TMDBResponse<T> = {
 };
 
 const BASE_URL_API = "https://api.themoviedb.org/3";
-const API_KEY = "xxx";
+const API_KEY = "dbdfa96d5d16073af6fece57100b8e12";
 
 const DEFAULT_SEARCH_PARAMS = {
   api_key: API_KEY,
